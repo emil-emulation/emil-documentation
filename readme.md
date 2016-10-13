@@ -4,3 +4,4 @@
 
 [EMiL Workflows and User Interface](user-guide.md) 
 
+[EMiL API and Integration](integration.md)
